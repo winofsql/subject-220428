@@ -36,6 +36,9 @@ print()
 ```
 
 ## Java 準備( VSCode 用 )
+- ### 拡張インストール
+  ![image](https://user-images.githubusercontent.com/1501327/165723385-ca88c4dc-2d80-4016-b5bb-2f5608f46e99.png)
+   
 - ### "G:\共有ドライブ\SE-WORK-DOWNLOAD\java\java16.zip"
   - c:\java16 として解凍
 
