@@ -34,3 +34,6 @@ print( "Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-ch
 print( "Pragma: no-cache" )
 print()
 ```
+
+## [dotnet new SDK 指定](https://blog.yucchiy.com/2021/05/globaljson-dotnet-sdk-version/)
+
