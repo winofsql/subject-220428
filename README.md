@@ -36,4 +36,6 @@ print()
 ```
 
 ## [dotnet new SDK 指定](https://blog.yucchiy.com/2021/05/globaljson-dotnet-sdk-version/)
-
+```
+dotnet new globaljson --sdk-version 5.0.100
+```
