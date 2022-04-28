@@ -39,6 +39,10 @@ print()
 - ### 拡張インストール
   ![image](https://user-images.githubusercontent.com/1501327/165723585-849df699-0bbd-4505-ab90-3bc756787f27.png)\
   ![image](https://user-images.githubusercontent.com/1501327/165723680-1338d84d-efce-4508-a6d5-527ee15656a6.png)
+  - console テンプレートインストール
+```
+dotnet new console -f net5.0
+```
 
 
 ## Java 準備( VSCode 用 )
