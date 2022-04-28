@@ -35,6 +35,12 @@ print( "Pragma: no-cache" )
 print()
 ```
 
+## C# 準備( VSCode 用 )
+- ### 拡張インストール
+  ![image](https://user-images.githubusercontent.com/1501327/165723585-849df699-0bbd-4505-ab90-3bc756787f27.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/165723680-1338d84d-efce-4508-a6d5-527ee15656a6.png)
+
+
 ## Java 準備( VSCode 用 )
 - ### 拡張インストール
   ![image](https://user-images.githubusercontent.com/1501327/165723385-ca88c4dc-2d80-4016-b5bb-2f5608f46e99.png)
