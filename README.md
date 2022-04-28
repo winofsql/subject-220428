@@ -9,5 +9,7 @@
 ```
 
 ![image](https://user-images.githubusercontent.com/1501327/165663175-67f209b9-e909-4d69-8661-493f8d463299.png)
-
+```py
+html_data = html_data.replace("<","&lt;").replace(">","&gt;").replace("\n","<br>")
+```
 ![image](https://user-images.githubusercontent.com/1501327/165665226-57cc5e5e-7f03-4ca6-b958-ca047d57eb67.png)
