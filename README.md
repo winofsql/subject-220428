@@ -1,7 +1,7 @@
 # subject-220428
 
 ## Apache httpd.conf 設定
-![image](https://user-images.githubusercontent.com/1501327/165645120-63b079b0-9488-44e7-b90f-aadb7e97aa54.png)
+![image](https://user-images.githubusercontent.com/1501327/165674740-70e2521b-5b26-4b01-ad34-f0f5b7a9fbcd.png)
 
 ## ソース先頭
 ```
