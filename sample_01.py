@@ -42,6 +42,9 @@ print( str(data4) + "<br>" )
 print( escape(type4) + "<br>" )
 """
 
+html_data = html_data.replace("<","&lt;").replace(">","&gt;").replace("\n","<br>")
+# html_data = html_data.replace(">","&gt;")
+
 view = f"""<!DOCTYPE html>
 <html>
 <head>
