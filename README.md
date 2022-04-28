@@ -35,3 +35,24 @@ print( "Pragma: no-cache" )
 print()
 ```
 
+## Java 準備( VSCode 用 )
+- ### "G:\共有ドライブ\SE-WORK-DOWNLOAD\java\java16.zip"
+  - c:\java16 として解凍
+
+- ### "G:\共有ドライブ\SE-WORK-DOWNLOAD\java\lib.zip"
+  - c:\app\workspace\lib として解凍
+
+- ### 環境変数に JAVA_HOME = c:\java16 を追加
+  ![image](https://user-images.githubusercontent.com/1501327/165722706-dfbd2d64-f8fa-446d-96dd-cbe0e13856b3.png)
+
+- ### "G:\共有ドライブ\SE-WORK-DOWNLOAD\java\java16.reg"
+  - 実行してレジストリインポート( c:\xampp\tomcat 用 )
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Development Kit]
+"JavaHome"="C:\\java16"
+```
+   
