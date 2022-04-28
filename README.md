@@ -13,5 +13,3 @@
 html_data = html_data.replace("<","&lt;").replace(">","&gt;").replace("\n","<br>")
 ```
 ![image](https://user-images.githubusercontent.com/1501327/165674336-24c65a38-554c-439b-8d69-4631ea20371f.png)
-
-![image](https://user-images.githubusercontent.com/1501327/165665226-57cc5e5e-7f03-4ca6-b958-ca047d57eb67.png)
